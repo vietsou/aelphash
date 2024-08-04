@@ -20,10 +20,10 @@ Linux-based operating system (preferably Kali Linux)
 
 ### Installation
 Clone the repository:  
-`git clone https://github.com/your_username/hash-cracking-helper.git`  
+`git clone https://github.com/vietsou/aelphash.git`  
 
 Navigate to the project directory:  
-`cd hash-cracking-helper`   
+`cd aelphash`   
 
 Usage  
 `python3 aelphash_FR_0.1.py`  
